@@ -26,6 +26,8 @@
 
 [The Basics of Web Workers](http://www.html5rocks.com/en/tutorials/workers/basics/) (Eric Bidelman - Jul 26, 2010)
 
+[Understading the web wroker and multi-threading](https://www.loginradius.com/engineering/blog/adding-multi-threading-to-javascript-using-web-workers/) (Hridayesh Sharma - Sep 09, 2020)
+
 
 ## Javascript Libraries
 
